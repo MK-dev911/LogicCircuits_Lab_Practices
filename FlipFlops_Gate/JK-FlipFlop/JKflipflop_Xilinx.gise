@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="JKflipflop_Xilinx.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="jk_flipflop.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="jk_flipflop.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="jk_flipflop.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="jk_flipflop.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="jk_flipflop.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="jk_flipflop.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="jk_flipflop.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="jk_flipflop.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="jk_flipflop.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="jk_flipflop.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="jk_flipflop.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="jk_flipflop.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="jk_flipflop.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="jk_flipflop.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="jk_flipflop.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="jk_flipflop.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="jk_flipflop.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="jk_flipflop.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="jk_flipflop.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="jk_flipflop_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="jk_flipflop_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="jk_flipflop_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="jk_flipflop_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="jk_flipflop_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="jk_flipflop_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="jk_flipflop_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="jk_flipflop_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="jk_flipflop_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="jk_flipflop_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="jk_flipflop_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="jk_flipflop_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="jk_flipflop_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="jk_flipflop_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1740469497">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="1935813216601578181" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-7961708266044255692" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="5047355731471357319" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="250970745955965653" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469498" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="5273994649728555454" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469502" xil_pn:in_ck="-2112756264265521708" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="5805418198031061827" xil_pn:start_ts="1740469498">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="jk_flipflop.lso"/>
+      <outfile xil_pn:name="jk_flipflop.ngc"/>
+      <outfile xil_pn:name="jk_flipflop.ngr"/>
+      <outfile xil_pn:name="jk_flipflop.prj"/>
+      <outfile xil_pn:name="jk_flipflop.stx"/>
+      <outfile xil_pn:name="jk_flipflop.syr"/>
+      <outfile xil_pn:name="jk_flipflop.xst"/>
+      <outfile xil_pn:name="jk_flipflop_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469502" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-5819751757338917454" xil_pn:start_ts="1740469502">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469505" xil_pn:in_ck="5051437428540806774" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-1952329469501964043" xil_pn:start_ts="1740469502">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="jk_flipflop.bld"/>
+      <outfile xil_pn:name="jk_flipflop.ngd"/>
+      <outfile xil_pn:name="jk_flipflop_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469511" xil_pn:in_ck="5051437428540806775" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="1448924893915930207" xil_pn:start_ts="1740469505">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="jk_flipflop.pcf"/>
+      <outfile xil_pn:name="jk_flipflop_map.map"/>
+      <outfile xil_pn:name="jk_flipflop_map.mrp"/>
+      <outfile xil_pn:name="jk_flipflop_map.ncd"/>
+      <outfile xil_pn:name="jk_flipflop_map.ngm"/>
+      <outfile xil_pn:name="jk_flipflop_map.xrpt"/>
+      <outfile xil_pn:name="jk_flipflop_summary.xml"/>
+      <outfile xil_pn:name="jk_flipflop_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469518" xil_pn:in_ck="7142013378308000016" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="93661965788626211" xil_pn:start_ts="1740469511">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="jk_flipflop.ncd"/>
+      <outfile xil_pn:name="jk_flipflop.pad"/>
+      <outfile xil_pn:name="jk_flipflop.par"/>
+      <outfile xil_pn:name="jk_flipflop.ptwx"/>
+      <outfile xil_pn:name="jk_flipflop.unroutes"/>
+      <outfile xil_pn:name="jk_flipflop.xpi"/>
+      <outfile xil_pn:name="jk_flipflop_pad.csv"/>
+      <outfile xil_pn:name="jk_flipflop_pad.txt"/>
+      <outfile xil_pn:name="jk_flipflop_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1740469518" xil_pn:in_ck="5051437428540806643" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416184" xil_pn:start_ts="1740469515">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="jk_flipflop.twr"/>
+      <outfile xil_pn:name="jk_flipflop.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>
