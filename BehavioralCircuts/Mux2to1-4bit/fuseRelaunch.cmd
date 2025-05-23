@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/LogicCircuits_lab/Practices_4/mux2to1_4bit/mux2to1_4bit/tb_mux2to1_4bit_isim_beh.exe" -prj "E:/LogicCircuits_lab/Practices_4/mux2to1_4bit/mux2to1_4bit/tb_mux2to1_4bit_beh.prj" "work.tb_mux2to1_4bit" "work.glbl" 
