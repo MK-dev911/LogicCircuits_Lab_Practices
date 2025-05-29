@@ -39,5 +39,7 @@ To run and simulate the Verilog files, you'll need a Verilog-compatible tool suc
 
 ### How to Simulate (with Icarus Verilog):
 
-1. Run .Xilinx 
+1. Run .xise file
+2. Go to simioulation mode
+3. Click Run Behavioral
 
